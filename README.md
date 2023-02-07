@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=octorose&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=octorose&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 # TRYHACKME:
-<script src="https://tryhackme.com/badge/1074309"></script>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/octorose.png" alt="TryHackMe">
 
 
 ### ✍️ Random Dev Quote
