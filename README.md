@@ -11,6 +11,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=octorose&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=octorose&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=octorose&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#TRYHACKME:
+<script src="https://tryhackme.com/badge/1074309"></script>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
