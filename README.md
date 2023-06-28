@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 Computer Engineering student<br>💻👨🏻‍⚕️ Currently working on a Diabetes Management mobile App/Machine leaning project<br>🥷🏼🕵🏻‍♂️ Interested in cyber security<br>😉 Challenging myself to code / solve probs everyday
+🧑🏻‍💻 Computer Engineering student <br>🥷🏼🕵🏻‍♂️ Interested in cyber security<br>
 
 
 ## 🌐 Socials:
